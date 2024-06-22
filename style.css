@@ -1,4 +1,7 @@
 * {
-  font-family: "Inter", Arial, Helvetica, sans-serif !important;
-  border-radius: 15px !important;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+button {
+  border-radius: 2em !important;
 }
